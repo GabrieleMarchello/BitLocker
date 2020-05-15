@@ -12,7 +12,7 @@ The solution is simpler that it may sound and you need just to follow these simp
 1. Power on your laptop
 2. Enter the BIOS by pressing F2 when the Dell logo appears
 3. Go in **Boot Sequence** and select **UEFI**
-4. Go in **Security**, **TPM 2.0 Secuity** and restore it to the factory settings
+4. Go in **Security**, **TPM 2.0 Security** and restore it to the factory settings
 5. Exit the BIOS and restart your laptop
 
 If you don't see the TPM item of the list, there are different ways to proceed:
